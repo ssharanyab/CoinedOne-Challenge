@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CoinedOne</string>
+    <string name="schedule">Schedule</string>
+    <string name="mode">Mode</string>
+    <string name="details">" "</string>
+    <string name="whitelist">Whitelist</string>
+    <string name="blacklist">Blacklist</string>
+</resources>
